@@ -1,5 +1,8 @@
+# SPD
+This is the official repo for "Progressive Discretization for Generative Retrieval: A Self-Supervised Approach to High-Quality Docid Generation".
+
 ### Requirements
-1. Refer to /pretrain/requirements.txt.
+Refer to /pretrain/requirements.txt.
    
 ### Run Models
 ##### Data preparation
