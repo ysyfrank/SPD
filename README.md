@@ -1,6 +1,3 @@
-# Overview
-This is the project for Model-based IR.
-
 ### Requirements
 1. Refer to /pretrain/requirements.txt.
    
